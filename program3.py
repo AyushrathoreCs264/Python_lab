@@ -8,3 +8,4 @@ for i in range(len(arr)):
             arr[i] = arr[j]
             arr[j] = temp
 print(arr[k - 1])
+

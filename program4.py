@@ -9,3 +9,4 @@ for i in b:
     if i not in union:
         union.append(i)
 print(union)
+
