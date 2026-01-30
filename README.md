@@ -1,1 +1,1 @@
-this repo is for my college training program where i will solve the question that will be provided by the college in my sem 4 currentlyin python.
+this repo is for my college training program where i will solve the question that will be provided by the college in my sem 4 currently in python.
